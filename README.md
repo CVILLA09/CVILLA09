@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi! I'm Cristian 👋</h1>
   
 <h3 align="center">Software Developer</h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/cristian-villa-5b518127b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
 <a href="https://github.com/CVILLA09" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
