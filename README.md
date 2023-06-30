@@ -82,9 +82,9 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
-<br>
+
 <p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif'></p>
-<br>
+
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CVILLA09)](https://github.com/ryo-ma/github-profile-trophy)
