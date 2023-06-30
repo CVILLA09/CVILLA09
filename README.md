@@ -48,6 +48,9 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <p align="left"> <a href="https://www.github.com/MoyasiGinko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://wa.me/+8801705674860" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="32" height='32'></a></p> -->
 
 
+<p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif' width="400" height="400"></p>
+
+
 ### Skills
 
 <p align="left">
@@ -82,8 +85,6 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
-
-<p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif' width="400" height="400"></p>
 
 ### Badges
 
