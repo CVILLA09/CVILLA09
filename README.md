@@ -15,23 +15,21 @@ Here are some ideas to get you started:
 <!-- Hello, my name is Cristian Villa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================== -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Cristian Villa</h1>
+<h1 align="center">Hi there <img src="" width="30px">, I'm Cristian Villa</h1>
   
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/salim-bamahfoodh-707b74200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
-<a href="https://github.com/Salimer" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
-<a href="https://www.facebook.com/S.Bamahfoodh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Mahmudur Rahman" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/Moyasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Moyasi" height="30" width="40" /></a> -->
-<a href="https://twitter.com/SaLiM355173" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moyasi_ginko" height="30" width="40" /></a>
-<a href = "mailto: s.bamahfoodh@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href="https://wa.me/+905338417810" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
+<a href="https://www.linkedin.com/in/cristian-villa-5b518127b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moyasi" height="30" width="40" /></a>
+<a href="https://github.com/CVILLA09" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+<a href="https://twitter.com/cvillevir](https://twitter.com/cvillevir)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moyasi_ginko" height="30" width="40" /></a>
+<a href = "mailto: c.villavirgen@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://wa.me/+5213325373226" target="blank" > <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="30" height='40' /></a>
 </p>
 
-<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Salimer"</img> </p>
+<p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="CVILLA09"</img> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salimer&label=Views&color=blue&style=plastic" alt="Salimer" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salimer&label=Views&color=blue&style=plastic" alt="CVILLA09" /></p>
 <!-- Software Developer
 --------------------- -->
 
@@ -41,7 +39,7 @@ I would like to build technology to improve people's lives.<br/>
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
 
-- 🔭  I am currently studying **Software Development** at <img src="https://avatars.githubusercontent.com/u/22550229?s=200&v=4" width="14" height="14"> Microverse. 😄 
+- 🔭  I am currently studying **Software Development** at <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="18" height="18"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
