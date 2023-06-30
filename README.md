@@ -45,7 +45,8 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 - 🤝  I am looking to collaborate with people around the world on different projects.
 - 🚀  I have special interest on crypto, web3, metaverse and AI. 🤖
 - ✉️  You can reach me at [c.villavirgen@gmail.com](mailto:c.villavirgen@gmail.com)
-
+<br>
+<br>
 <!-- ### Socials
 
 <p align="left"> <a href="https://www.github.com/MoyasiGinko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://wa.me/+8801705674860" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="32" height='32'></a></p> -->
@@ -53,7 +54,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 ### Skills
 
-<p align="center">
+<p align="left">
 <!--<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <!--<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>-->
@@ -75,7 +76,8 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 </p>
-
+<br>
+<br>
 
 <b>My GitHub Stats</b>
 
@@ -85,7 +87,8 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
-
+<br>
+<br>
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CVILLA09)](https://github.com/ryo-ma/github-profile-trophy)
