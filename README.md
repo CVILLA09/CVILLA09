@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="CVILLA09"</img> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Salimer&label=Views&color=blue&style=plastic" alt="CVILLA09" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CVILLA09&label=Views&color=blue&style=plastic" alt="CVILLA09" /></p>
 <!-- Software Developer
 --------------------- -->
 
@@ -40,7 +40,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 -->
 
 - 🔭  I am currently studying **Software Development** at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5e1d85ec2cfebf729152734b_microverse-logo-modified.png" width="18" height="18"> Microverse. 😄 
-- 🌱  I am learning the best practices towards working as a remote software developer at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="54" height="18">
+- 🌱  I am learning the best practices towards working as a remote software developer at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="90" height="18">
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
 - 🚀  I have special interest on crypto, web3, metaverse and AI. 🤖
