@@ -45,9 +45,8 @@
 
 <a href="http://www.github.com/CVILLA09"><img src="https://github-readme-stats.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" /></a>
 <a href="http://www.github.com/CVILLA09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CVILLA09&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
 
-<br>
 <br>
 
 ### 🏆 Badges
