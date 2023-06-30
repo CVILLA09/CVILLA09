@@ -39,7 +39,7 @@ I would like to build technology to improve people's lives.<br/>
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
 
-- 🔭  I am currently studying **Software Development** at <img src="[https://zen-marketing-assets.s3-us-west-2.amazonaws.com/images/Microverselogo.png](https://scontent.fgdl12-1.fna.fbcdn.net/v/t39.30808-6/305751749_449624627270583_2289770462671144705_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-uef5Rt0QjMAX9yEj2n&_nc_ht=scontent.fgdl12-1.fna&oh=00_AfAKkspACrNtTzHXzjTwUbfZjPk-eQnlBq8oJx-9TpnRPQ&oe=64A3989C)" width="18" height="18"> Microverse. 😄 
+- 🔭  I am currently studying **Software Development** at <img src="[https://zen-marketing-assets.s3-us-west-2.amazonaws.com/images/Microverselogo.png](https://scontent.fgdl12-1.fna.fbcdn.net/v/t39.30808-6/305751749_449624627270583_2289770462671144705_n.png?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=-uef5Rt0QjMAX9yEj2n&_nc_ht=scontent.fgdl12-1.fna&oh=00_AfAKkspACrNtTzHXzjTwUbfZjPk-eQnlBq8oJx-9TpnRPQ&oe=64A3989C)](https://yt3.googleusercontent.com/6tt2Kubs0IDT85OD7HcI9qOfJAXxtltrnZPzrmbSsDaHpH-dLrieb1PWtJMXH_wvtlY--0JgcY4=s176-c-k-c0x00ffffff-no-rj)" width="18" height="18"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
