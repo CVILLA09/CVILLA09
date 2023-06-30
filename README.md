@@ -75,7 +75,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 <p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif' width="400" height="400" margin-bottom="-10px"></p>
 
-
+<span align="center">
 ### My Github Stats
 
 <a href="http://www.github.com/CVILLA09"><img src="https://github-readme-stats.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" /></a>
@@ -88,3 +88,5 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CVILLA09)](https://github.com/ryo-ma/github-profile-trophy)
+
+</span>
