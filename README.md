@@ -38,16 +38,12 @@ I am a continuous improvement fullstack developer.<br/>
 I would like to build technology to improve people's lives.<br/> 
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
-<br>
-<br>
 - 🔭  I am currently studying **Software Development** at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5e1d85ec2cfebf729152734b_microverse-logo-modified.png" width="18" height="18"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="108" height="18">
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
 - 🚀  I have special interest on crypto, web3, metaverse and AI. 🤖
 - ✉️  You can reach me at [c.villavirgen@gmail.com](mailto:c.villavirgen@gmail.com)
-<br>
-<br>
 <!-- ### Socials
 
 <p align="left"> <a href="https://www.github.com/MoyasiGinko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mahmudur-rahman-a8a151257" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://wa.me/+8801705674860" target="_blank" rel="noreferrer"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' width="32" height='32'></a></p> -->
@@ -77,8 +73,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 </p>
-<br>
-<br>
+
 
 <b>My GitHub Stats</b>
 
@@ -88,8 +83,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 <!--  stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff-->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
-<br>
-<br>
+
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CVILLA09)](https://github.com/ryo-ma/github-profile-trophy)
