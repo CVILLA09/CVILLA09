@@ -43,6 +43,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
+- 🚀  I have special interest on crypto, web3, metaverse and AI. 🤖
 - ✉️  You can reach me at [c.villavirgen@gmail.com](mailto:c.villavirgen@gmail.com)
 
 <!-- ### Socials
