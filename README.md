@@ -86,7 +86,5 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 ### Badges
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CVILLA09)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="center">To be continued...</h3>
-<p align="center">======================</p>
-<p align="center"><img src='https://github.com/amon-cofie/amon-cofie/blob/main/handshake.gif' width="100px"></p>
+<br>
+<p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif'></p>
