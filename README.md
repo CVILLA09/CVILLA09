@@ -39,7 +39,7 @@ I would like to build technology to improve people's lives.<br/>
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
 
-- 🔭  I am currently studying **Software Development** at <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="18" height="18"> Microverse. 😄 
+- 🔭  I am currently studying **Software Development** at <img src="https://zen-marketing-assets.s3-us-west-2.amazonaws.com/images/Microverselogo.png" width="18" height="18"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
 - 🤝  I am looking to collaborate with people around the world on different projects.
