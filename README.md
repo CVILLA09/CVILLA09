@@ -83,7 +83,7 @@ I have changed my career because of the covid quarantine :mask:, that was hard, 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
 
-<p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif'></p>
+<p align="center"><img src='https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif' width="250" height="250"></p>
 
 ### Badges
 
