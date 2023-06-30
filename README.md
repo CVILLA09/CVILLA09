@@ -38,7 +38,8 @@ I am a continuous improvement fullstack developer.<br/>
 I would like to build technology to improve people's lives.<br/> 
 I have changed my career because of the covid quarantine :mask:, that was hard, but I have discovered this exciting new world for me, so I have burned the ships. 
 -->
-
+<br>
+<br>
 - 🔭  I am currently studying **Software Development** at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/5e1d85ec2cfebf729152734b_microverse-logo-modified.png" width="18" height="18"> Microverse. 😄 
 - 🌱  I am learning the best practices towards working as a remote software developer at <img src="https://assets-global.website-files.com/5dbb30f00775d4c32191a4df/61b33c641028e40f097ca160_microverse-nav-logo-170.png" width="108" height="18">
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 😉
