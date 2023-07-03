@@ -23,7 +23,6 @@
 - 🌍  I am currently based in Guadalajara, Jalisco but I am eager to work in other parts of the world. 🌎
 - 🤝  I am looking to collaborate with people around the world on different projects. 🌐
 - 🚀  I have special interest on crypto, web3, metaverse and AI. 🤖
-- ✉️  You can reach me at [c.villavirgen@gmail.com](mailto:c.villavirgen@gmail.com)
 
 <br>
 
