@@ -15,13 +15,13 @@ jobs:
 
       - name: Fetch and Update Crypto Prices
         run: |
-          # Fetch current prices for BTC and ETH from CoinGecko
-          PRICES=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd")
-          PRICE_BTC=$(echo $PRICES | jq -r '.bitcoin.usd')
-          PRICE_ETH=$(echo $PRICES | jq -r '.ethereum.usd')
+    # Fetch current prices for BTC and ETH from CoinGecko
+    PRICES=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd")
+    PRICE_BTC=$(echo $PRICES | jq -r '.bitcoin.usd')
+    PRICE_ETH=$(echo $PRICES | jq -r '.ethereum.usd')
 
-          # Update README
-          sed -i "s|<!-- CRYPTO_TICKER_START -->.*<!-- CRYPTO_TICKER_END -->|<!-- CRYPTO_TICKER_START --> **BTC:** \$${PRICE_BTC} **ETH:** \$${PRICE_ETH} <!-- CRYPTO_TICKER_END -->|g" README.md
+    # Use sed with the -z flag to update the multiline block
+    sed -z -i "s|<!-- CRYPTO_TICKER_START -->.*<!-- CRYPTO_TICKER_END -->|<!-- CRYPTO_TICKER_START --> **BTC:** \$${PRICE_BTC} **ETH:** \$${PRICE_ETH} <!-- CRYPTO_TICKER_END -->|g" README.md
 
       - name: Commit changes
         run: |
