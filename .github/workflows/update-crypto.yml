@@ -1,0 +1,32 @@
+name: Update Crypto Prices
+on:
+  schedule:
+    # Runs every hour (adjust cron to how often you want updates)
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch and Update Crypto Prices
+        run: |
+          # Fetch current prices for BTC and ETH from CoinGecko
+          PRICES=$(curl -s "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd")
+          PRICE_BTC=$(echo $PRICES | jq -r '.bitcoin.usd')
+          PRICE_ETH=$(echo $PRICES | jq -r '.ethereum.usd')
+
+          # Update README
+          sed -i "s|<!-- CRYPTO_TICKER_START -->.*<!-- CRYPTO_TICKER_END -->|<!-- CRYPTO_TICKER_START --> **BTC:** \$${PRICE_BTC} **ETH:** \$${PRICE_ETH} <!-- CRYPTO_TICKER_END -->|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update crypto prices" || echo "No changes to commit"
+          git push
