@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I recently finished the **Microverse Bootcamp** (2025 graduate!).
+- 🎓 **Microverse Full Stack Bootcamp** Graduate.
 - 🌱 Currently exploring **UI/UX Design** at **EBAC** and diving into AI tools.
 - 📍 Based in Mexico, but open to work and collaborate **worldwide**.
 - 🤝 Love connecting with people to build exciting projects and learn together.
