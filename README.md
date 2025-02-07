@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-villa-5b518127b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://github.com/CVILLA09" target="blank" ><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
+  <a href="https://github.com/CVILLA09" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" /></a>
   <a href="https://twitter.com/cvillevir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="mailto:c.villavirgen@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
   <a href="https://wa.me/+5213325373226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" width="30" height="40" /></a>
@@ -22,11 +22,20 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Microverse Full Stack Bootcamp** Graduate.
-- 🌱 Currently exploring **UI/UX Design** at **EBAC** and diving into AI tools.
-- 📍 Based in Mexico, but open to work and collaborate **worldwide**.
-- 🤝 Love connecting with people to build exciting projects and learn together.
-- 🚀 Passionate about **web3**, **AI**, and all things **future tech**.
+- 🎓 **Microverse Full Stack Bootcamp** Graduate.  
+- 🌱 Currently exploring **UI/UX Design** at **EBAC** and diving into AI tools.  
+- 📍 Based in Mexico, but open to work and collaborate **worldwide**.  
+- 🤝 Love connecting with people to build exciting projects and learn together.  
+- 🚀 Passionate about **web3**, **AI**, and all things **future tech**.  
+
+<br />
+
+### 🚀 Live Crypto Ticker
+
+<!-- CRYPTO_TICKER_START -->
+**BTC:** $-- **ETH:** $--
+<!-- CRYPTO_TICKER_END -->
+
 
 <br />
 
