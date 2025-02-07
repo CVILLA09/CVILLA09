@@ -36,7 +36,6 @@
 **BTC:** $-- **ETH:** $--
 <!-- CRYPTO_TICKER_END -->
 
-
 <br />
 
 ### 🛠️ Skills
