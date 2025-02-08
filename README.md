@@ -30,14 +30,6 @@
 
 <br />
 
-### 🚀 Live Crypto Ticker
-
-<!-- CRYPTO_TICKER_START -->
-**BTC:** $-- **ETH:** $--
-<!-- CRYPTO_TICKER_END -->
-
-<br />
-
 ### 🛠️ Skills
 
 <p align="left">
