@@ -7,23 +7,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cristian-villa-5b518127b/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/CVILLA09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" height="40" />
-  </a>
-  <a href="https://twitter.com/cvillevir" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:c.villavirgen@gmail.com">
-    <img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
   <img src="./assets/matrix-rain.svg" alt="Animated Matrix-style ASCII code rain" width="100%" />
 </p>
 
@@ -121,14 +104,14 @@ I enjoy creating practical, user-centered solutions with technologies like React
 <p align="center">
 
 <a href="https://github.com/CVILLA09">
-  <img src="https://github-readme-stats.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" />
 </a>
 
 <a href="https://github.com/CVILLA09">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CVILLA09&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="Cristian's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=CVILLA09&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="Cristian's GitHub Streak" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
 </p>
 
 ---
@@ -139,4 +122,3 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 - LinkedIn: [cristianvillavirgen](https://www.linkedin.com/in/cristianvillavirgen/)
 - GitHub: [CVILLA09](https://github.com/CVILLA09)
-- Email: [c.villavirgen@gmail.com](mailto:c.villavirgen@gmail.com)
