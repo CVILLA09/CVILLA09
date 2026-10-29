@@ -4,8 +4,6 @@
 
 <h3>Full-Stack Developer · Automation & AI Workflow Builder · UI/UX-Oriented</h3>
 
-<sub>SOFTWARE DEVELOPMENT  /  AUTOMATION  /  AI  /  DESIGN</sub>
-
 <br/>
 
 <p align="center">
@@ -39,7 +37,6 @@
 
 ### 👨‍💻 About Me
 
-
 I'm a full-stack developer focused on building web applications, automation workflows, and AI-powered integrations.
 
 I enjoy creating practical, user-centered solutions with technologies like React, JavaScript, APIs, webhooks, and automation tools such as n8n. My work combines development, product thinking, and UI/UX to build solutions that are functional, scalable, and easy to use.
@@ -54,7 +51,6 @@ I enjoy creating practical, user-centered solutions with technologies like React
 <br/>
 
 ### 🛠️ Tech Stack
-
 
 #### Front-End
 
@@ -110,7 +106,6 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 ### 🚀 What I’m Focused On
 
-
 - Building web apps with clean, user-friendly interfaces
 - Creating automation workflows that reduce repetitive work
 - Connecting services through APIs and webhooks
@@ -141,7 +136,6 @@ I enjoy creating practical, user-centered solutions with technologies like React
 <br/>
 
 ### 📫 Let’s Connect
-
 
 - LinkedIn: [cristianvillavirgen](https://www.linkedin.com/in/cristianvillavirgen/)
 - GitHub: [CVILLA09](https://github.com/CVILLA09)
