@@ -99,19 +99,12 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 <br/>
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
 <p align="center">
-
-<a href="https://github.com/CVILLA09">
-  <img src="https://github-stats-extended.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" />
-</a>
-
-<a href="https://github.com/CVILLA09">
-  <img src="https://streak-stats.demolab.com/?user=CVILLA09&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="Cristian's GitHub Streak" />
-</a>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVILLA09&theme=github_dark&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&chart_color=39d66a" alt="Cristian's GitHub contribution history" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CVILLA09&bg_color=0d1117&color=8b949e&line=39d66a&point=a8ffbf&area_color=166534&area=true&hide_border=true&hide_title=true&days=30" alt="Cristian's recent GitHub activity graph" width="100%" />
+</p>
