@@ -94,3 +94,13 @@ I enjoy creating practical, user-centered solutions with technologies like React
 - Connecting services through APIs and webhooks
 - Exploring AI-powered tools and practical integrations
 - Improving product experiences through UI/UX thinking
+
+---
+
+<br/>
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CVILLA09&theme=github_dark&title_color=3fb950&text_color=c9d1d9&bg_color=0d1117&border_color=0d1117&chart_color=39d66a" alt="Cristian's GitHub contribution history" width="100%" />
+</p>
