@@ -115,9 +115,3 @@ I enjoy creating practical, user-centered solutions with technologies like React
 </p>
 
 ---
-
-<br/>
-
-### 📫 Let’s Connect
-
-- LinkedIn: [cristianvillavirgen](https://www.linkedin.com/in/cristianvillavirgen/)
