@@ -1,6 +1,12 @@
-<h1 align="center">Hi, I'm Cristian 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer · Automation & AI Workflow Builder · UI/UX-Oriented</h3>
+<h1>Hi, I'm Cristian 👋</h1>
+
+<h3>Full-Stack Developer · Automation & AI Workflow Builder · UI/UX-Oriented</h3>
+
+<sub>SOFTWARE DEVELOPMENT  /  AUTOMATION  /  AI  /  DESIGN</sub>
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cristian-villa-5b518127b/" target="blank">
@@ -17,13 +23,22 @@
   </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+  <img src="./assets/matrix-rain.svg" alt="Animated Matrix-style ASCII code rain" width="100%" />
 </p>
+
+</div>
+
+<br/>
 
 ---
 
+<br/>
+
 ### 👨‍💻 About Me
+
 
 I'm a full-stack developer focused on building web applications, automation workflows, and AI-powered integrations.
 
@@ -36,31 +51,50 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 ---
 
+<br/>
+
 ### 🛠️ Tech Stack
 
+
 #### Front-End
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+  
 </p>
 
 #### Back-End / Database
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" />
+  
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" width="36" height="36" alt="Ruby on Rails" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  
 </p>
 
 #### Automation / Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  
   <img src="https://cdn.simpleicons.org/github/FFFFFF" width="36" height="36" alt="GitHub" />
+  
 </p>
 
 - APIs  
@@ -72,7 +106,10 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 ---
 
+<br/>
+
 ### 🚀 What I’m Focused On
+
 
 - Building web apps with clean, user-friendly interfaces
 - Creating automation workflows that reduce repetitive work
@@ -82,7 +119,11 @@ I enjoy creating practical, user-centered solutions with technologies like React
 
 ---
 
+<br/>
+
 ### 📈 GitHub Stats
+
+<p align="center">
 
 <a href="https://github.com/CVILLA09">
   <img src="https://github-readme-stats.vercel.app/api?username=CVILLA09&show_icons=true&count_private=true&theme=merko&title_color=e25822&icon_color=e25822&ring_color=0891b2&hide_border=true" alt="Cristian's GitHub stats" />
@@ -92,11 +133,15 @@ I enjoy creating practical, user-centered solutions with technologies like React
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CVILLA09&theme=merko&ring=e25822&fire=e25822&currStreakNum=ffffff&currStreakLabel=0891b2&hide_border=true" alt="Cristian's GitHub Streak" />
 </a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CVILLA09&show_icons=true&theme=merko&layout=compact&hide_border=true" alt="CVILLA09" />
+</p>
 
 ---
 
+<br/>
+
 ### 📫 Let’s Connect
+
 
 - LinkedIn: [cristianvillavirgen](https://www.linkedin.com/in/cristianvillavirgen/)
 - GitHub: [CVILLA09](https://github.com/CVILLA09)
