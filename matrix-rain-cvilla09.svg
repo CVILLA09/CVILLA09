@@ -1,0 +1,579 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-label="Animated green Matrix-style ASCII code rain">
+<defs>
+  <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset=".16" stop-color="#fff" stop-opacity=".8"/><stop offset=".80" stop-color="#fff" stop-opacity=".8"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
+  <mask id="edge"><rect width="960" height="190" fill="url(#fade)"/></mask>
+  <linearGradient id="trail" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b4621" stop-opacity=".15"/><stop offset=".6" stop-color="#17a34a" stop-opacity=".62"/><stop offset="1" stop-color="#9dffb6" stop-opacity="1"/></linearGradient>
+</defs>
+<rect width="960" height="190" rx="12" fill="#0d1117"/>
+<g mask="url(#edge)" font-family="monospace" font-size="13" font-weight="bold" text-anchor="middle">
+<g opacity="0.52"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="6.59s" begin="-1.72s" repeatCount="indefinite"/>
+<text x="18" y="0" fill="#16803c" opacity="0.3">\</text>
+<text x="18" y="18" fill="#16803c" opacity="0.4">t</text>
+<text x="18" y="36" fill="#16803c" opacity="0.5">+</text>
+<text x="18" y="54" fill="#16803c" opacity="0.6">t</text>
+<text x="18" y="72" fill="#16803c" opacity="0.7">0</text>
+<text x="18" y="90" fill="#55ec84" opacity="0.8">&amp;</text>
+<text x="18" y="108" fill="#55ec84" opacity="0.9">1</text>
+<text x="18" y="126" fill="#b3ffc9" opacity="1.0">&amp;</text>
+</g>
+<g opacity="0.31"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="5.43s" begin="-5.38s" repeatCount="indefinite"/>
+<text x="40" y="0" fill="#16803c" opacity="0.26">&amp;</text>
+<text x="40" y="18" fill="#16803c" opacity="0.31">;</text>
+<text x="40" y="36" fill="#16803c" opacity="0.37">1</text>
+<text x="40" y="54" fill="#16803c" opacity="0.43">{</text>
+<text x="40" y="72" fill="#16803c" opacity="0.49">0</text>
+<text x="40" y="90" fill="#16803c" opacity="0.54">{</text>
+<text x="40" y="108" fill="#16803c" opacity="0.6">0</text>
+<text x="40" y="126" fill="#16803c" opacity="0.66">=</text>
+<text x="40" y="144" fill="#16803c" opacity="0.71">#</text>
+<text x="40" y="162" fill="#16803c" opacity="0.77">/</text>
+<text x="40" y="180" fill="#16803c" opacity="0.83">0</text>
+<text x="40" y="198" fill="#55ec84" opacity="0.89">1</text>
+<text x="40" y="216" fill="#55ec84" opacity="0.94">|</text>
+<text x="40" y="234" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.70"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="6.15s" begin="-3.37s" repeatCount="indefinite"/>
+<text x="62" y="0" fill="#16803c" opacity="0.29">;</text>
+<text x="62" y="18" fill="#16803c" opacity="0.38">;</text>
+<text x="62" y="36" fill="#16803c" opacity="0.47">*</text>
+<text x="62" y="54" fill="#16803c" opacity="0.56">0</text>
+<text x="62" y="72" fill="#16803c" opacity="0.64">|</text>
+<text x="62" y="90" fill="#16803c" opacity="0.73">[</text>
+<text x="62" y="108" fill="#55ec84" opacity="0.82">=</text>
+<text x="62" y="126" fill="#55ec84" opacity="0.91">1</text>
+<text x="62" y="144" fill="#b3ffc9" opacity="1.0">}</text>
+</g>
+<g opacity="0.51"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="4.82s" begin="-6.47s" repeatCount="indefinite"/>
+<text x="84" y="0" fill="#16803c" opacity="0.26">-</text>
+<text x="84" y="18" fill="#16803c" opacity="0.31">#</text>
+<text x="84" y="36" fill="#16803c" opacity="0.37">0</text>
+<text x="84" y="54" fill="#16803c" opacity="0.43">#</text>
+<text x="84" y="72" fill="#16803c" opacity="0.49">$</text>
+<text x="84" y="90" fill="#16803c" opacity="0.54">0</text>
+<text x="84" y="108" fill="#16803c" opacity="0.6">+</text>
+<text x="84" y="126" fill="#16803c" opacity="0.66">$</text>
+<text x="84" y="144" fill="#16803c" opacity="0.71">*</text>
+<text x="84" y="162" fill="#16803c" opacity="0.77">%</text>
+<text x="84" y="180" fill="#16803c" opacity="0.83">;</text>
+<text x="84" y="198" fill="#55ec84" opacity="0.89">:</text>
+<text x="84" y="216" fill="#55ec84" opacity="0.94">=</text>
+<text x="84" y="234" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="4.32s" begin="-6.04s" repeatCount="indefinite"/>
+<text x="106" y="0" fill="#16803c" opacity="0.3">0</text>
+<text x="106" y="18" fill="#16803c" opacity="0.4">&amp;</text>
+<text x="106" y="36" fill="#16803c" opacity="0.5">1</text>
+<text x="106" y="54" fill="#16803c" opacity="0.6">$</text>
+<text x="106" y="72" fill="#16803c" opacity="0.7">t</text>
+<text x="106" y="90" fill="#55ec84" opacity="0.8">;</text>
+<text x="106" y="108" fill="#55ec84" opacity="0.9">\</text>
+<text x="106" y="126" fill="#b3ffc9" opacity="1.0">t</text>
+</g>
+<g opacity="0.61"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="5.59s" begin="-4.31s" repeatCount="indefinite"/>
+<text x="128" y="0" fill="#16803c" opacity="0.28">0</text>
+<text x="128" y="18" fill="#16803c" opacity="0.36">0</text>
+<text x="128" y="36" fill="#16803c" opacity="0.44">}</text>
+<text x="128" y="54" fill="#16803c" opacity="0.52">;</text>
+<text x="128" y="72" fill="#16803c" opacity="0.6">|</text>
+<text x="128" y="90" fill="#16803c" opacity="0.68">1</text>
+<text x="128" y="108" fill="#16803c" opacity="0.76">#</text>
+<text x="128" y="126" fill="#55ec84" opacity="0.84">0</text>
+<text x="128" y="144" fill="#55ec84" opacity="0.92">#</text>
+<text x="128" y="162" fill="#b3ffc9" opacity="1.0">*</text>
+</g>
+<g opacity="0.48"><animateTransform attributeName="transform" type="translate" from="0 -300" to="0 240" dur="4.27s" begin="-2.75s" repeatCount="indefinite"/>
+<text x="150" y="0" fill="#16803c" opacity="0.25">l</text>
+<text x="150" y="18" fill="#16803c" opacity="0.31">0</text>
+<text x="150" y="36" fill="#16803c" opacity="0.36">1</text>
+<text x="150" y="54" fill="#16803c" opacity="0.41">1</text>
+<text x="150" y="72" fill="#16803c" opacity="0.47">0</text>
+<text x="150" y="90" fill="#16803c" opacity="0.52">:</text>
+<text x="150" y="108" fill="#16803c" opacity="0.57">t</text>
+<text x="150" y="126" fill="#16803c" opacity="0.63">#</text>
+<text x="150" y="144" fill="#16803c" opacity="0.68">0</text>
+<text x="150" y="162" fill="#16803c" opacity="0.73">{</text>
+<text x="150" y="180" fill="#16803c" opacity="0.79">$</text>
+<text x="150" y="198" fill="#16803c" opacity="0.84">0</text>
+<text x="150" y="216" fill="#55ec84" opacity="0.89">:</text>
+<text x="150" y="234" fill="#55ec84" opacity="0.95">0</text>
+<text x="150" y="252" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.59"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="5.53s" begin="-3.03s" repeatCount="indefinite"/>
+<text x="172" y="0" fill="#16803c" opacity="0.26">0</text>
+<text x="172" y="18" fill="#16803c" opacity="0.31">=</text>
+<text x="172" y="36" fill="#16803c" opacity="0.37">t</text>
+<text x="172" y="54" fill="#16803c" opacity="0.43">&amp;</text>
+<text x="172" y="72" fill="#16803c" opacity="0.49">}</text>
+<text x="172" y="90" fill="#16803c" opacity="0.54">&amp;</text>
+<text x="172" y="108" fill="#16803c" opacity="0.6">*</text>
+<text x="172" y="126" fill="#16803c" opacity="0.66">&amp;</text>
+<text x="172" y="144" fill="#16803c" opacity="0.71">1</text>
+<text x="172" y="162" fill="#16803c" opacity="0.77">1</text>
+<text x="172" y="180" fill="#16803c" opacity="0.83">l</text>
+<text x="172" y="198" fill="#55ec84" opacity="0.89">}</text>
+<text x="172" y="216" fill="#55ec84" opacity="0.94">0</text>
+<text x="172" y="234" fill="#b3ffc9" opacity="1.0">{</text>
+</g>
+<g opacity="0.32"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="7.66s" begin="-3.81s" repeatCount="indefinite"/>
+<text x="194" y="0" fill="#16803c" opacity="0.27">&amp;</text>
+<text x="194" y="18" fill="#16803c" opacity="0.33">*</text>
+<text x="194" y="36" fill="#16803c" opacity="0.4">&amp;</text>
+<text x="194" y="54" fill="#16803c" opacity="0.47">-</text>
+<text x="194" y="72" fill="#16803c" opacity="0.53">;</text>
+<text x="194" y="90" fill="#16803c" opacity="0.6">+</text>
+<text x="194" y="108" fill="#16803c" opacity="0.67">t</text>
+<text x="194" y="126" fill="#16803c" opacity="0.73">*</text>
+<text x="194" y="144" fill="#16803c" opacity="0.8">:</text>
+<text x="194" y="162" fill="#55ec84" opacity="0.87">$</text>
+<text x="194" y="180" fill="#55ec84" opacity="0.93">1</text>
+<text x="194" y="198" fill="#b3ffc9" opacity="1.0">[</text>
+</g>
+<g opacity="0.31"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="8.12s" begin="-7.69s" repeatCount="indefinite"/>
+<text x="216" y="0" fill="#16803c" opacity="0.28">1</text>
+<text x="216" y="18" fill="#16803c" opacity="0.36">&amp;</text>
+<text x="216" y="36" fill="#16803c" opacity="0.44">#</text>
+<text x="216" y="54" fill="#16803c" opacity="0.52">/</text>
+<text x="216" y="72" fill="#16803c" opacity="0.6">&amp;</text>
+<text x="216" y="90" fill="#16803c" opacity="0.68">g</text>
+<text x="216" y="108" fill="#16803c" opacity="0.76">;</text>
+<text x="216" y="126" fill="#55ec84" opacity="0.84">1</text>
+<text x="216" y="144" fill="#55ec84" opacity="0.92">;</text>
+<text x="216" y="162" fill="#b3ffc9" opacity="1.0">g</text>
+</g>
+<g opacity="0.49"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="7.23s" begin="-2.91s" repeatCount="indefinite"/>
+<text x="238" y="0" fill="#16803c" opacity="0.29">0</text>
+<text x="238" y="18" fill="#16803c" opacity="0.38">;</text>
+<text x="238" y="36" fill="#16803c" opacity="0.47">1</text>
+<text x="238" y="54" fill="#16803c" opacity="0.56">&amp;</text>
+<text x="238" y="72" fill="#16803c" opacity="0.64">:</text>
+<text x="238" y="90" fill="#16803c" opacity="0.73">;</text>
+<text x="238" y="108" fill="#55ec84" opacity="0.82">#</text>
+<text x="238" y="126" fill="#55ec84" opacity="0.91">;</text>
+<text x="238" y="144" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.37"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="4.61s" begin="-5.90s" repeatCount="indefinite"/>
+<text x="260" y="0" fill="#16803c" opacity="0.27">0</text>
+<text x="260" y="18" fill="#16803c" opacity="0.33">0</text>
+<text x="260" y="36" fill="#16803c" opacity="0.4">0</text>
+<text x="260" y="54" fill="#16803c" opacity="0.47">$</text>
+<text x="260" y="72" fill="#16803c" opacity="0.53">-</text>
+<text x="260" y="90" fill="#16803c" opacity="0.6">1</text>
+<text x="260" y="108" fill="#16803c" opacity="0.67">*</text>
+<text x="260" y="126" fill="#16803c" opacity="0.73">1</text>
+<text x="260" y="144" fill="#16803c" opacity="0.8">0</text>
+<text x="260" y="162" fill="#55ec84" opacity="0.87">:</text>
+<text x="260" y="180" fill="#55ec84" opacity="0.93">0</text>
+<text x="260" y="198" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.69"><animateTransform attributeName="transform" type="translate" from="0 -264" to="0 240" dur="7.56s" begin="-6.04s" repeatCount="indefinite"/>
+<text x="282" y="0" fill="#16803c" opacity="0.26">l</text>
+<text x="282" y="18" fill="#16803c" opacity="0.32">{</text>
+<text x="282" y="36" fill="#16803c" opacity="0.38">0</text>
+<text x="282" y="54" fill="#16803c" opacity="0.45">]</text>
+<text x="282" y="72" fill="#16803c" opacity="0.51">t</text>
+<text x="282" y="90" fill="#16803c" opacity="0.57">0</text>
+<text x="282" y="108" fill="#16803c" opacity="0.63">;</text>
+<text x="282" y="126" fill="#16803c" opacity="0.69">1</text>
+<text x="282" y="144" fill="#16803c" opacity="0.75">0</text>
+<text x="282" y="162" fill="#16803c" opacity="0.82">;</text>
+<text x="282" y="180" fill="#55ec84" opacity="0.88">;</text>
+<text x="282" y="198" fill="#55ec84" opacity="0.94">-</text>
+<text x="282" y="216" fill="#b3ffc9" opacity="1.0">\</text>
+</g>
+<g opacity="0.61"><animateTransform attributeName="transform" type="translate" from="0 -228" to="0 240" dur="7.81s" begin="-5.17s" repeatCount="indefinite"/>
+<text x="304" y="0" fill="#16803c" opacity="0.27">&amp;</text>
+<text x="304" y="18" fill="#16803c" opacity="0.35">1</text>
+<text x="304" y="36" fill="#16803c" opacity="0.42">t</text>
+<text x="304" y="54" fill="#16803c" opacity="0.49">#</text>
+<text x="304" y="72" fill="#16803c" opacity="0.56">-</text>
+<text x="304" y="90" fill="#16803c" opacity="0.64">[</text>
+<text x="304" y="108" fill="#16803c" opacity="0.71">-</text>
+<text x="304" y="126" fill="#16803c" opacity="0.78">;</text>
+<text x="304" y="144" fill="#55ec84" opacity="0.85">;</text>
+<text x="304" y="162" fill="#55ec84" opacity="0.93">1</text>
+<text x="304" y="180" fill="#b3ffc9" opacity="1.0">;</text>
+</g>
+<g opacity="0.51"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="7.03s" begin="-0.24s" repeatCount="indefinite"/>
+<text x="326" y="0" fill="#16803c" opacity="0.29">/</text>
+<text x="326" y="18" fill="#16803c" opacity="0.38">+</text>
+<text x="326" y="36" fill="#16803c" opacity="0.47">l</text>
+<text x="326" y="54" fill="#16803c" opacity="0.56">%</text>
+<text x="326" y="72" fill="#16803c" opacity="0.64">t</text>
+<text x="326" y="90" fill="#16803c" opacity="0.73">;</text>
+<text x="326" y="108" fill="#55ec84" opacity="0.82">1</text>
+<text x="326" y="126" fill="#55ec84" opacity="0.91">+</text>
+<text x="326" y="144" fill="#b3ffc9" opacity="1.0">:</text>
+</g>
+<g opacity="0.55"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="7.24s" begin="-3.39s" repeatCount="indefinite"/>
+<text x="348" y="0" fill="#16803c" opacity="0.3">1</text>
+<text x="348" y="18" fill="#16803c" opacity="0.4">\</text>
+<text x="348" y="36" fill="#16803c" opacity="0.5">|</text>
+<text x="348" y="54" fill="#16803c" opacity="0.6">1</text>
+<text x="348" y="72" fill="#16803c" opacity="0.7">=</text>
+<text x="348" y="90" fill="#55ec84" opacity="0.8">[</text>
+<text x="348" y="108" fill="#55ec84" opacity="0.9">0</text>
+<text x="348" y="126" fill="#b3ffc9" opacity="1.0">#</text>
+</g>
+<g opacity="0.40"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="6.40s" begin="-2.28s" repeatCount="indefinite"/>
+<text x="370" y="0" fill="#16803c" opacity="0.28">\</text>
+<text x="370" y="18" fill="#16803c" opacity="0.36">;</text>
+<text x="370" y="36" fill="#16803c" opacity="0.44">0</text>
+<text x="370" y="54" fill="#16803c" opacity="0.52">0</text>
+<text x="370" y="72" fill="#16803c" opacity="0.6">]</text>
+<text x="370" y="90" fill="#16803c" opacity="0.68">1</text>
+<text x="370" y="108" fill="#16803c" opacity="0.76">l</text>
+<text x="370" y="126" fill="#55ec84" opacity="0.84">]</text>
+<text x="370" y="144" fill="#55ec84" opacity="0.92">%</text>
+<text x="370" y="162" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.68"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="6.34s" begin="-5.90s" repeatCount="indefinite"/>
+<text x="392" y="0" fill="#16803c" opacity="0.26">1</text>
+<text x="392" y="18" fill="#16803c" opacity="0.31">1</text>
+<text x="392" y="36" fill="#16803c" opacity="0.37">1</text>
+<text x="392" y="54" fill="#16803c" opacity="0.43">:</text>
+<text x="392" y="72" fill="#16803c" opacity="0.49">1</text>
+<text x="392" y="90" fill="#16803c" opacity="0.54">l</text>
+<text x="392" y="108" fill="#16803c" opacity="0.6">%</text>
+<text x="392" y="126" fill="#16803c" opacity="0.66">g</text>
+<text x="392" y="144" fill="#16803c" opacity="0.71">]</text>
+<text x="392" y="162" fill="#16803c" opacity="0.77">;</text>
+<text x="392" y="180" fill="#16803c" opacity="0.83">1</text>
+<text x="392" y="198" fill="#55ec84" opacity="0.89">0</text>
+<text x="392" y="216" fill="#55ec84" opacity="0.94">=</text>
+<text x="392" y="234" fill="#b3ffc9" opacity="1.0">;</text>
+</g>
+<g opacity="0.66"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="4.42s" begin="-7.03s" repeatCount="indefinite"/>
+<text x="414" y="0" fill="#16803c" opacity="0.3">1</text>
+<text x="414" y="18" fill="#16803c" opacity="0.4">=</text>
+<text x="414" y="36" fill="#16803c" opacity="0.5">#</text>
+<text x="414" y="54" fill="#16803c" opacity="0.6">0</text>
+<text x="414" y="72" fill="#16803c" opacity="0.7">0</text>
+<text x="414" y="90" fill="#55ec84" opacity="0.8">1</text>
+<text x="414" y="108" fill="#55ec84" opacity="0.9">/</text>
+<text x="414" y="126" fill="#b3ffc9" opacity="1.0">%</text>
+</g>
+<g opacity="0.75"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="5.75s" begin="-5.02s" repeatCount="indefinite"/>
+<text x="436" y="0" fill="#16803c" opacity="0.27">0</text>
+<text x="436" y="18" fill="#16803c" opacity="0.33">1</text>
+<text x="436" y="36" fill="#16803c" opacity="0.4">0</text>
+<text x="436" y="54" fill="#16803c" opacity="0.47">;</text>
+<text x="436" y="72" fill="#16803c" opacity="0.53">1</text>
+<text x="436" y="90" fill="#16803c" opacity="0.6">0</text>
+<text x="436" y="108" fill="#16803c" opacity="0.67">g</text>
+<text x="436" y="126" fill="#16803c" opacity="0.73">%</text>
+<text x="436" y="144" fill="#16803c" opacity="0.8">t</text>
+<text x="436" y="162" fill="#55ec84" opacity="0.87">&amp;</text>
+<text x="436" y="180" fill="#55ec84" opacity="0.93">#</text>
+<text x="436" y="198" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.65"><animateTransform attributeName="transform" type="translate" from="0 -228" to="0 240" dur="4.99s" begin="-7.73s" repeatCount="indefinite"/>
+<text x="458" y="0" fill="#16803c" opacity="0.27">/</text>
+<text x="458" y="18" fill="#16803c" opacity="0.35">&amp;</text>
+<text x="458" y="36" fill="#16803c" opacity="0.42">1</text>
+<text x="458" y="54" fill="#16803c" opacity="0.49">}</text>
+<text x="458" y="72" fill="#16803c" opacity="0.56">=</text>
+<text x="458" y="90" fill="#16803c" opacity="0.64">%</text>
+<text x="458" y="108" fill="#16803c" opacity="0.71">0</text>
+<text x="458" y="126" fill="#16803c" opacity="0.78">1</text>
+<text x="458" y="144" fill="#55ec84" opacity="0.85">%</text>
+<text x="458" y="162" fill="#55ec84" opacity="0.93">[</text>
+<text x="458" y="180" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.63"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="5.96s" begin="-6.67s" repeatCount="indefinite"/>
+<text x="480" y="0" fill="#16803c" opacity="0.28">0</text>
+<text x="480" y="18" fill="#16803c" opacity="0.36">{</text>
+<text x="480" y="36" fill="#16803c" opacity="0.44">&amp;</text>
+<text x="480" y="54" fill="#16803c" opacity="0.52">1</text>
+<text x="480" y="72" fill="#16803c" opacity="0.6">0</text>
+<text x="480" y="90" fill="#16803c" opacity="0.68">%</text>
+<text x="480" y="108" fill="#16803c" opacity="0.76">+</text>
+<text x="480" y="126" fill="#55ec84" opacity="0.84">*</text>
+<text x="480" y="144" fill="#55ec84" opacity="0.92">|</text>
+<text x="480" y="162" fill="#b3ffc9" opacity="1.0">}</text>
+</g>
+<g opacity="0.43"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="6.63s" begin="-0.10s" repeatCount="indefinite"/>
+<text x="502" y="0" fill="#16803c" opacity="0.29">{</text>
+<text x="502" y="18" fill="#16803c" opacity="0.38">&amp;</text>
+<text x="502" y="36" fill="#16803c" opacity="0.47">+</text>
+<text x="502" y="54" fill="#16803c" opacity="0.56">0</text>
+<text x="502" y="72" fill="#16803c" opacity="0.64">{</text>
+<text x="502" y="90" fill="#16803c" opacity="0.73">0</text>
+<text x="502" y="108" fill="#55ec84" opacity="0.82">0</text>
+<text x="502" y="126" fill="#55ec84" opacity="0.91">&amp;</text>
+<text x="502" y="144" fill="#b3ffc9" opacity="1.0">;</text>
+</g>
+<g opacity="0.62"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="7.37s" begin="-4.25s" repeatCount="indefinite"/>
+<text x="524" y="0" fill="#16803c" opacity="0.26">=</text>
+<text x="524" y="18" fill="#16803c" opacity="0.31">0</text>
+<text x="524" y="36" fill="#16803c" opacity="0.37">\</text>
+<text x="524" y="54" fill="#16803c" opacity="0.43">*</text>
+<text x="524" y="72" fill="#16803c" opacity="0.49">1</text>
+<text x="524" y="90" fill="#16803c" opacity="0.54">;</text>
+<text x="524" y="108" fill="#16803c" opacity="0.6">&amp;</text>
+<text x="524" y="126" fill="#16803c" opacity="0.66">+</text>
+<text x="524" y="144" fill="#16803c" opacity="0.71">l</text>
+<text x="524" y="162" fill="#16803c" opacity="0.77">;</text>
+<text x="524" y="180" fill="#16803c" opacity="0.83">/</text>
+<text x="524" y="198" fill="#55ec84" opacity="0.89">&amp;</text>
+<text x="524" y="216" fill="#55ec84" opacity="0.94">1</text>
+<text x="524" y="234" fill="#b3ffc9" opacity="1.0">$</text>
+</g>
+<g opacity="0.53"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="6.71s" begin="-1.25s" repeatCount="indefinite"/>
+<text x="546" y="0" fill="#16803c" opacity="0.28">\</text>
+<text x="546" y="18" fill="#16803c" opacity="0.36">0</text>
+<text x="546" y="36" fill="#16803c" opacity="0.44">1</text>
+<text x="546" y="54" fill="#16803c" opacity="0.52">\</text>
+<text x="546" y="72" fill="#16803c" opacity="0.6">}</text>
+<text x="546" y="90" fill="#16803c" opacity="0.68">]</text>
+<text x="546" y="108" fill="#16803c" opacity="0.76">1</text>
+<text x="546" y="126" fill="#55ec84" opacity="0.84">1</text>
+<text x="546" y="144" fill="#55ec84" opacity="0.92">t</text>
+<text x="546" y="162" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.52"><animateTransform attributeName="transform" type="translate" from="0 -300" to="0 240" dur="7.10s" begin="-4.83s" repeatCount="indefinite"/>
+<text x="568" y="0" fill="#16803c" opacity="0.25">$</text>
+<text x="568" y="18" fill="#16803c" opacity="0.31">0</text>
+<text x="568" y="36" fill="#16803c" opacity="0.36">0</text>
+<text x="568" y="54" fill="#16803c" opacity="0.41">-</text>
+<text x="568" y="72" fill="#16803c" opacity="0.47">1</text>
+<text x="568" y="90" fill="#16803c" opacity="0.52">$</text>
+<text x="568" y="108" fill="#16803c" opacity="0.57">0</text>
+<text x="568" y="126" fill="#16803c" opacity="0.63">g</text>
+<text x="568" y="144" fill="#16803c" opacity="0.68">%</text>
+<text x="568" y="162" fill="#16803c" opacity="0.73">;</text>
+<text x="568" y="180" fill="#16803c" opacity="0.79">0</text>
+<text x="568" y="198" fill="#16803c" opacity="0.84">l</text>
+<text x="568" y="216" fill="#55ec84" opacity="0.89">1</text>
+<text x="568" y="234" fill="#55ec84" opacity="0.95">t</text>
+<text x="568" y="252" fill="#b3ffc9" opacity="1.0">g</text>
+</g>
+<g opacity="0.77"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="5.98s" begin="-3.84s" repeatCount="indefinite"/>
+<text x="590" y="0" fill="#16803c" opacity="0.27">\</text>
+<text x="590" y="18" fill="#16803c" opacity="0.33">/</text>
+<text x="590" y="36" fill="#16803c" opacity="0.4">1</text>
+<text x="590" y="54" fill="#16803c" opacity="0.47">[</text>
+<text x="590" y="72" fill="#16803c" opacity="0.53">-</text>
+<text x="590" y="90" fill="#16803c" opacity="0.6">{</text>
+<text x="590" y="108" fill="#16803c" opacity="0.67">;</text>
+<text x="590" y="126" fill="#16803c" opacity="0.73">0</text>
+<text x="590" y="144" fill="#16803c" opacity="0.8">{</text>
+<text x="590" y="162" fill="#55ec84" opacity="0.87">0</text>
+<text x="590" y="180" fill="#55ec84" opacity="0.93">1</text>
+<text x="590" y="198" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.63"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="5.82s" begin="-0.05s" repeatCount="indefinite"/>
+<text x="612" y="0" fill="#16803c" opacity="0.27">$</text>
+<text x="612" y="18" fill="#16803c" opacity="0.33">;</text>
+<text x="612" y="36" fill="#16803c" opacity="0.4">=</text>
+<text x="612" y="54" fill="#16803c" opacity="0.47">\</text>
+<text x="612" y="72" fill="#16803c" opacity="0.53">|</text>
+<text x="612" y="90" fill="#16803c" opacity="0.6">#</text>
+<text x="612" y="108" fill="#16803c" opacity="0.67">$</text>
+<text x="612" y="126" fill="#16803c" opacity="0.73">0</text>
+<text x="612" y="144" fill="#16803c" opacity="0.8">0</text>
+<text x="612" y="162" fill="#55ec84" opacity="0.87">t</text>
+<text x="612" y="180" fill="#55ec84" opacity="0.93">;</text>
+<text x="612" y="198" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.76"><animateTransform attributeName="transform" type="translate" from="0 -228" to="0 240" dur="8.37s" begin="-5.69s" repeatCount="indefinite"/>
+<text x="634" y="0" fill="#16803c" opacity="0.27">l</text>
+<text x="634" y="18" fill="#16803c" opacity="0.35">+</text>
+<text x="634" y="36" fill="#16803c" opacity="0.42">/</text>
+<text x="634" y="54" fill="#16803c" opacity="0.49">%</text>
+<text x="634" y="72" fill="#16803c" opacity="0.56">g</text>
+<text x="634" y="90" fill="#16803c" opacity="0.64">1</text>
+<text x="634" y="108" fill="#16803c" opacity="0.71">&amp;</text>
+<text x="634" y="126" fill="#16803c" opacity="0.78">t</text>
+<text x="634" y="144" fill="#55ec84" opacity="0.85">*</text>
+<text x="634" y="162" fill="#55ec84" opacity="0.93">0</text>
+<text x="634" y="180" fill="#b3ffc9" opacity="1.0">:</text>
+</g>
+<g opacity="0.75"><animateTransform attributeName="transform" type="translate" from="0 -300" to="0 240" dur="7.12s" begin="-0.77s" repeatCount="indefinite"/>
+<text x="656" y="0" fill="#16803c" opacity="0.25">1</text>
+<text x="656" y="18" fill="#16803c" opacity="0.31">;</text>
+<text x="656" y="36" fill="#16803c" opacity="0.36">1</text>
+<text x="656" y="54" fill="#16803c" opacity="0.41">&amp;</text>
+<text x="656" y="72" fill="#16803c" opacity="0.47">%</text>
+<text x="656" y="90" fill="#16803c" opacity="0.52">0</text>
+<text x="656" y="108" fill="#16803c" opacity="0.57">+</text>
+<text x="656" y="126" fill="#16803c" opacity="0.63">1</text>
+<text x="656" y="144" fill="#16803c" opacity="0.68">}</text>
+<text x="656" y="162" fill="#16803c" opacity="0.73">;</text>
+<text x="656" y="180" fill="#16803c" opacity="0.79">1</text>
+<text x="656" y="198" fill="#16803c" opacity="0.84">-</text>
+<text x="656" y="216" fill="#55ec84" opacity="0.89">\</text>
+<text x="656" y="234" fill="#55ec84" opacity="0.95">;</text>
+<text x="656" y="252" fill="#b3ffc9" opacity="1.0">&amp;</text>
+</g>
+<g opacity="0.62"><animateTransform attributeName="transform" type="translate" from="0 -264" to="0 240" dur="8.17s" begin="-6.59s" repeatCount="indefinite"/>
+<text x="678" y="0" fill="#16803c" opacity="0.26">=</text>
+<text x="678" y="18" fill="#16803c" opacity="0.32">]</text>
+<text x="678" y="36" fill="#16803c" opacity="0.38">%</text>
+<text x="678" y="54" fill="#16803c" opacity="0.45">1</text>
+<text x="678" y="72" fill="#16803c" opacity="0.51">0</text>
+<text x="678" y="90" fill="#16803c" opacity="0.57">#</text>
+<text x="678" y="108" fill="#16803c" opacity="0.63">}</text>
+<text x="678" y="126" fill="#16803c" opacity="0.69">&amp;</text>
+<text x="678" y="144" fill="#16803c" opacity="0.75">l</text>
+<text x="678" y="162" fill="#16803c" opacity="0.82">;</text>
+<text x="678" y="180" fill="#55ec84" opacity="0.88">0</text>
+<text x="678" y="198" fill="#55ec84" opacity="0.94">;</text>
+<text x="678" y="216" fill="#b3ffc9" opacity="1.0">:</text>
+</g>
+<g opacity="0.77"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="8.01s" begin="-5.46s" repeatCount="indefinite"/>
+<text x="700" y="0" fill="#16803c" opacity="0.28">1</text>
+<text x="700" y="18" fill="#16803c" opacity="0.36">1</text>
+<text x="700" y="36" fill="#16803c" opacity="0.44">-</text>
+<text x="700" y="54" fill="#16803c" opacity="0.52">0</text>
+<text x="700" y="72" fill="#16803c" opacity="0.6">;</text>
+<text x="700" y="90" fill="#16803c" opacity="0.68">0</text>
+<text x="700" y="108" fill="#16803c" opacity="0.76">l</text>
+<text x="700" y="126" fill="#55ec84" opacity="0.84">t</text>
+<text x="700" y="144" fill="#55ec84" opacity="0.92">&amp;</text>
+<text x="700" y="162" fill="#b3ffc9" opacity="1.0">;</text>
+</g>
+<g opacity="0.29"><animateTransform attributeName="transform" type="translate" from="0 -246" to="0 240" dur="4.84s" begin="-5.92s" repeatCount="indefinite"/>
+<text x="722" y="0" fill="#16803c" opacity="0.27">*</text>
+<text x="722" y="18" fill="#16803c" opacity="0.33">;</text>
+<text x="722" y="36" fill="#16803c" opacity="0.4">0</text>
+<text x="722" y="54" fill="#16803c" opacity="0.47">|</text>
+<text x="722" y="72" fill="#16803c" opacity="0.53">;</text>
+<text x="722" y="90" fill="#16803c" opacity="0.6">t</text>
+<text x="722" y="108" fill="#16803c" opacity="0.67">;</text>
+<text x="722" y="126" fill="#16803c" opacity="0.73">1</text>
+<text x="722" y="144" fill="#16803c" opacity="0.8">$</text>
+<text x="722" y="162" fill="#55ec84" opacity="0.87">#</text>
+<text x="722" y="180" fill="#55ec84" opacity="0.93">[</text>
+<text x="722" y="198" fill="#b3ffc9" opacity="1.0">g</text>
+</g>
+<g opacity="0.38"><animateTransform attributeName="transform" type="translate" from="0 -300" to="0 240" dur="6.57s" begin="-5.68s" repeatCount="indefinite"/>
+<text x="744" y="0" fill="#16803c" opacity="0.25">0</text>
+<text x="744" y="18" fill="#16803c" opacity="0.31">;</text>
+<text x="744" y="36" fill="#16803c" opacity="0.36">;</text>
+<text x="744" y="54" fill="#16803c" opacity="0.41">0</text>
+<text x="744" y="72" fill="#16803c" opacity="0.47">]</text>
+<text x="744" y="90" fill="#16803c" opacity="0.52">#</text>
+<text x="744" y="108" fill="#16803c" opacity="0.57">#</text>
+<text x="744" y="126" fill="#16803c" opacity="0.63">0</text>
+<text x="744" y="144" fill="#16803c" opacity="0.68">1</text>
+<text x="744" y="162" fill="#16803c" opacity="0.73">&amp;</text>
+<text x="744" y="180" fill="#16803c" opacity="0.79">:</text>
+<text x="744" y="198" fill="#16803c" opacity="0.84">\</text>
+<text x="744" y="216" fill="#55ec84" opacity="0.89">:</text>
+<text x="744" y="234" fill="#55ec84" opacity="0.95">0</text>
+<text x="744" y="252" fill="#b3ffc9" opacity="1.0">0</text>
+</g>
+<g opacity="0.43"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="5.17s" begin="-5.28s" repeatCount="indefinite"/>
+<text x="766" y="0" fill="#16803c" opacity="0.29">+</text>
+<text x="766" y="18" fill="#16803c" opacity="0.38">0</text>
+<text x="766" y="36" fill="#16803c" opacity="0.47">0</text>
+<text x="766" y="54" fill="#16803c" opacity="0.56">/</text>
+<text x="766" y="72" fill="#16803c" opacity="0.64">=</text>
+<text x="766" y="90" fill="#16803c" opacity="0.73">%</text>
+<text x="766" y="108" fill="#55ec84" opacity="0.82">;</text>
+<text x="766" y="126" fill="#55ec84" opacity="0.91">g</text>
+<text x="766" y="144" fill="#b3ffc9" opacity="1.0">]</text>
+</g>
+<g opacity="0.77"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="6.48s" begin="-4.33s" repeatCount="indefinite"/>
+<text x="788" y="0" fill="#16803c" opacity="0.28">0</text>
+<text x="788" y="18" fill="#16803c" opacity="0.36">=</text>
+<text x="788" y="36" fill="#16803c" opacity="0.44">0</text>
+<text x="788" y="54" fill="#16803c" opacity="0.52">1</text>
+<text x="788" y="72" fill="#16803c" opacity="0.6">|</text>
+<text x="788" y="90" fill="#16803c" opacity="0.68">|</text>
+<text x="788" y="108" fill="#16803c" opacity="0.76">+</text>
+<text x="788" y="126" fill="#55ec84" opacity="0.84">0</text>
+<text x="788" y="144" fill="#55ec84" opacity="0.92">+</text>
+<text x="788" y="162" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.54"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="8.50s" begin="-3.56s" repeatCount="indefinite"/>
+<text x="810" y="0" fill="#16803c" opacity="0.29">g</text>
+<text x="810" y="18" fill="#16803c" opacity="0.38">t</text>
+<text x="810" y="36" fill="#16803c" opacity="0.47">1</text>
+<text x="810" y="54" fill="#16803c" opacity="0.56">:</text>
+<text x="810" y="72" fill="#16803c" opacity="0.64">]</text>
+<text x="810" y="90" fill="#16803c" opacity="0.73">{</text>
+<text x="810" y="108" fill="#55ec84" opacity="0.82">1</text>
+<text x="810" y="126" fill="#55ec84" opacity="0.91">\</text>
+<text x="810" y="144" fill="#b3ffc9" opacity="1.0">=</text>
+</g>
+<g opacity="0.50"><animateTransform attributeName="transform" type="translate" from="0 -300" to="0 240" dur="7.86s" begin="-6.57s" repeatCount="indefinite"/>
+<text x="832" y="0" fill="#16803c" opacity="0.25">0</text>
+<text x="832" y="18" fill="#16803c" opacity="0.31">;</text>
+<text x="832" y="36" fill="#16803c" opacity="0.36">$</text>
+<text x="832" y="54" fill="#16803c" opacity="0.41">#</text>
+<text x="832" y="72" fill="#16803c" opacity="0.47">[</text>
+<text x="832" y="90" fill="#16803c" opacity="0.52">;</text>
+<text x="832" y="108" fill="#16803c" opacity="0.57">1</text>
+<text x="832" y="126" fill="#16803c" opacity="0.63">1</text>
+<text x="832" y="144" fill="#16803c" opacity="0.68">%</text>
+<text x="832" y="162" fill="#16803c" opacity="0.73">]</text>
+<text x="832" y="180" fill="#16803c" opacity="0.79">+</text>
+<text x="832" y="198" fill="#16803c" opacity="0.84">0</text>
+<text x="832" y="216" fill="#55ec84" opacity="0.89">;</text>
+<text x="832" y="234" fill="#55ec84" opacity="0.95">;</text>
+<text x="832" y="252" fill="#b3ffc9" opacity="1.0">t</text>
+</g>
+<g opacity="0.57"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="5.06s" begin="-4.48s" repeatCount="indefinite"/>
+<text x="854" y="0" fill="#16803c" opacity="0.3">&amp;</text>
+<text x="854" y="18" fill="#16803c" opacity="0.4">#</text>
+<text x="854" y="36" fill="#16803c" opacity="0.5">{</text>
+<text x="854" y="54" fill="#16803c" opacity="0.6">;</text>
+<text x="854" y="72" fill="#16803c" opacity="0.7">0</text>
+<text x="854" y="90" fill="#55ec84" opacity="0.8">[</text>
+<text x="854" y="108" fill="#55ec84" opacity="0.9">;</text>
+<text x="854" y="126" fill="#b3ffc9" opacity="1.0">%</text>
+</g>
+<g opacity="0.32"><animateTransform attributeName="transform" type="translate" from="0 -282" to="0 240" dur="5.64s" begin="-5.20s" repeatCount="indefinite"/>
+<text x="876" y="0" fill="#16803c" opacity="0.26">0</text>
+<text x="876" y="18" fill="#16803c" opacity="0.31">$</text>
+<text x="876" y="36" fill="#16803c" opacity="0.37">[</text>
+<text x="876" y="54" fill="#16803c" opacity="0.43">$</text>
+<text x="876" y="72" fill="#16803c" opacity="0.49">;</text>
+<text x="876" y="90" fill="#16803c" opacity="0.54">1</text>
+<text x="876" y="108" fill="#16803c" opacity="0.6">0</text>
+<text x="876" y="126" fill="#16803c" opacity="0.66">{</text>
+<text x="876" y="144" fill="#16803c" opacity="0.71">1</text>
+<text x="876" y="162" fill="#16803c" opacity="0.77">\</text>
+<text x="876" y="180" fill="#16803c" opacity="0.83">\</text>
+<text x="876" y="198" fill="#55ec84" opacity="0.89">|</text>
+<text x="876" y="216" fill="#55ec84" opacity="0.94">0</text>
+<text x="876" y="234" fill="#b3ffc9" opacity="1.0">t</text>
+</g>
+<g opacity="0.28"><animateTransform attributeName="transform" type="translate" from="0 -210" to="0 240" dur="8.45s" begin="-7.31s" repeatCount="indefinite"/>
+<text x="898" y="0" fill="#16803c" opacity="0.28">[</text>
+<text x="898" y="18" fill="#16803c" opacity="0.36">%</text>
+<text x="898" y="36" fill="#16803c" opacity="0.44">\</text>
+<text x="898" y="54" fill="#16803c" opacity="0.52">;</text>
+<text x="898" y="72" fill="#16803c" opacity="0.6">*</text>
+<text x="898" y="90" fill="#16803c" opacity="0.68">1</text>
+<text x="898" y="108" fill="#16803c" opacity="0.76">;</text>
+<text x="898" y="126" fill="#55ec84" opacity="0.84">}</text>
+<text x="898" y="144" fill="#55ec84" opacity="0.92">g</text>
+<text x="898" y="162" fill="#b3ffc9" opacity="1.0">1</text>
+</g>
+<g opacity="0.45"><animateTransform attributeName="transform" type="translate" from="0 -174" to="0 240" dur="6.24s" begin="-0.78s" repeatCount="indefinite"/>
+<text x="920" y="0" fill="#16803c" opacity="0.3">1</text>
+<text x="920" y="18" fill="#16803c" opacity="0.4">&amp;</text>
+<text x="920" y="36" fill="#16803c" opacity="0.5">;</text>
+<text x="920" y="54" fill="#16803c" opacity="0.6">1</text>
+<text x="920" y="72" fill="#16803c" opacity="0.7">1</text>
+<text x="920" y="90" fill="#55ec84" opacity="0.8">&amp;</text>
+<text x="920" y="108" fill="#55ec84" opacity="0.9">{</text>
+<text x="920" y="126" fill="#b3ffc9" opacity="1.0">;</text>
+</g>
+<g opacity="0.41"><animateTransform attributeName="transform" type="translate" from="0 -192" to="0 240" dur="6.74s" begin="-3.50s" repeatCount="indefinite"/>
+<text x="942" y="0" fill="#16803c" opacity="0.29">+</text>
+<text x="942" y="18" fill="#16803c" opacity="0.38">1</text>
+<text x="942" y="36" fill="#16803c" opacity="0.47">-</text>
+<text x="942" y="54" fill="#16803c" opacity="0.56">$</text>
+<text x="942" y="72" fill="#16803c" opacity="0.64">0</text>
+<text x="942" y="90" fill="#16803c" opacity="0.73">%</text>
+<text x="942" y="108" fill="#55ec84" opacity="0.82">1</text>
+<text x="942" y="126" fill="#55ec84" opacity="0.91">0</text>
+<text x="942" y="144" fill="#b3ffc9" opacity="1.0">t</text>
+</g>
+</g>
+<rect x="12" y="12" width="936" height="166" rx="8" fill="none" stroke="#1e432a" opacity=".45"/>
+<g font-family="monospace" font-size="12" fill="#79db99" opacity=".86"><text x="28" y="168">&gt; system.active</text><text x="932" y="168" text-anchor="end">01001001 _</text></g>
+</svg>
